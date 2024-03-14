@@ -1,0 +1,14 @@
+body {
+  border: 50px;
+  margin: 30px;
+  background-color: #3e3e53;
+}
+body, html {
+height: 100%;
+margin: 0;
+padding: 10px;
+}
+.container{
+padding-bottom: 70px;
+  padding-top: 30px;
+}

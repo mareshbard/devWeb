@@ -1,0 +1,81 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+.text-white{
+  color:#fff!important
+}
+.container{
+  margin: 1em;
+  padding: 5cm;
+  background-color:#343a40!important
+}
+.espacamento {
+    margin-bottom: 20px!important;
+}
+
+body {
+  width: 50%;
+  max-width: 800px;
+  min-width: 480px;
+  margin: 0 auto;
+}
+
+.form input[type="number"] {
+  width: 200px;
+}
+
+.lastResult {
+  color: white;
+  padding: 3px;
+}
+
+html {
+  font-family: sans-serif;
+}
+
+body {
+  width: 50%;
+  max-width: 800px;
+  min-width: 480px;
+  margin: 0 auto;
+}
+
+.form input[type="number"] {
+  width: 200px;
+}
+
+.lastResult {
+  color: white;
+  padding: 3px;
+}
+.bebas-neue-regular {
+  font-family: "Bebas Neue", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+body {
+  border: 50px;
+  margin: 30px;
+
+}
+body, html {
+height: 100%;
+margin: 0;
+background-color: 
+  #24242c;
+}
+.container{
+padding-bottom: 70px;
+background-color: #24242c;
+font-family: "Bebas Neue", sans-serif;
+font-weight: 300;
+}
+.imagem{
+margin-top: 20px;
+background-color: #3e3e53;
+padding: 45px;
+border: 200px solid #3e3e53;
+border-radius: 50px;
+}
